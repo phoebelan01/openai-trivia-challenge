@@ -17,4 +17,5 @@ This is an interactive trivia game that leverages OpenAI’s capabilities to gen
    cd openai-trivia-challenge
 2. Install required package
    pip install openai
+3. Must have openai token.
 
